@@ -1,0 +1,26 @@
+var class_enemy_info =
+[
+    [ "alwaysFlying", "class_enemy_info.html#a5febaaf4dbe702df1cc308377e1f3dba", null ],
+    [ "alwaysJumps", "class_enemy_info.html#acb42990db64888bbd2b294172652952e", null ],
+    [ "alwaysWallRuns", "class_enemy_info.html#ae9d494f0963dba0309c598c8a32383ae", null ],
+    [ "attackRange", "class_enemy_info.html#aaeead6c5db38b3b21887306abbb090ec", null ],
+    [ "attackTime", "class_enemy_info.html#a179e133f68a3ccd12635d853bbbbb23c", null ],
+    [ "attackVariants", "class_enemy_info.html#a147543bb01e2df987833e53d7101091d", null ],
+    [ "baseOffset", "class_enemy_info.html#a73fa56cebe027cf8ff3211655b204b5c", null ],
+    [ "canFly", "class_enemy_info.html#a2fba305cd0abeb1034edcb3e3ea1c278", null ],
+    [ "canJump", "class_enemy_info.html#a99793ea319e8b8b99d7fd14f14f62f38", null ],
+    [ "canWallRun", "class_enemy_info.html#aec9858949217eb4177011b7a75af9f05", null ],
+    [ "chaseTime", "class_enemy_info.html#a468b65ab6db4b8dcc9b063a2243457df", null ],
+    [ "dieTime", "class_enemy_info.html#a18b027fc52f9433b19badd3b9785ae82", null ],
+    [ "height", "class_enemy_info.html#a1c50cb58d72876f7e94f87603fd790ee", null ],
+    [ "minalkTime", "class_enemy_info.html#afeba9d78d009a9e670d641fbc87164cd", null ],
+    [ "patrolIdleVariants", "class_enemy_info.html#a4e1e16206c8bdeeb11850757cfdb4d92", null ],
+    [ "patrolTime", "class_enemy_info.html#a91b7bcdf4456475e5ceed156f09c3c4b", null ],
+    [ "radius", "class_enemy_info.html#a00a3a4d5967b6434739dd4fb207ce3e0", null ],
+    [ "retreatDistance", "class_enemy_info.html#a859b84200d4b8a8f7de95afb88ef1adb", null ],
+    [ "retreatTime", "class_enemy_info.html#acbcfe2d0b89d7af370cadd448a00d7ae", null ],
+    [ "stoppingDistance", "class_enemy_info.html#a40faf0150f569734ca170672e2dddb88", null ],
+    [ "walkAcceleration", "class_enemy_info.html#aada48ee481a2a800b11dc64b969ce0b6", null ],
+    [ "walkSpeed", "class_enemy_info.html#a669e8b6078965b11818ebc35d5d21174", null ],
+    [ "walkTime", "class_enemy_info.html#a978a0ea7a8a2d9cc3ad12604df52022e", null ]
+];

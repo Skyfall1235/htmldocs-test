@@ -1,0 +1,4 @@
+var _keyboard_optimizer_8cs =
+[
+    [ "UnityEngine.XR.Interaction.Toolkit.Samples.SpatialKeyboard.KeyboardOptimizer", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_spatial_keyboard_1_1_keyboard_optimizer.html", "class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_spatial_keyboard_1_1_keyboard_optimizer" ]
+];

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['abilityactivator_0',['AbilityActivator',['../class_ability_data___s_o.html#a0fe9ce978d10192f433020937b1ac1a9',1,'AbilityData_SO.AbilityActivator'],['../interface_i_ability_data.html#acb61a016b588c02394ecd7bb8aa9916e',1,'IAbilityData.AbilityActivator']]],
+  ['abilityprefab_1',['AbilityPrefab',['../class_ability_package.html#ad857fdae8c1ff95ab96fcdee8bf17c56',1,'AbilityPackage']]],
+  ['abilityref_2',['AbilityRef',['../class_ability_package.html#a59b9e6f92dfe19af94e87dcc90aef03f',1,'AbilityPackage']]],
+  ['activationgameobject_3',['activationGameObject',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_hands_1_1_toggle_game_object.html#a9a08a6e9efcade8e0ab9197302feeb19',1,'UnityEngine::XR::Interaction::Toolkit::Samples::Hands::ToggleGameObject']]],
+  ['activationsounds_4',['ActivationSounds',['../class_ability_data___s_o.html#a0264ccd0a21a9b671783581120a4fd69',1,'AbilityData_SO']]],
+  ['agressiveness_5',['Agressiveness',['../class_unity_mesh_simplifier_1_1_mesh_simplifier.html#aa094176b39e3aaa75353c52cf9c95f54',1,'UnityMeshSimplifier::MeshSimplifier']]],
+  ['aimflagsaction_6',['aimFlagsAction',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_hands_1_1_meta_system_gesture_detector.html#aaac8e0c30b9f4562941f808b9c15b70e',1,'UnityEngine::XR::Interaction::Toolkit::Samples::Hands::MetaSystemGestureDetector']]],
+  ['allowoverrideownership_7',['allowOverrideOwnership',['../class_x_r_multiplayer_1_1_network_base_interactable.html#a415b7a6a0d9bf80632771c9946c39d6d',1,'XRMultiplayer::NetworkBaseInteractable']]],
+  ['allprimaryupgrades_8',['AllPrimaryUpgrades',['../class_character_archetype.html#ac23283bfe90312827ce9593e0e4ada13',1,'CharacterArchetype.AllPrimaryUpgrades'],['../interface_i_archetype_loadout.html#a2956e644ca55b6796fb90231dc68d21d',1,'IArchetypeLoadout.AllPrimaryUpgrades']]],
+  ['allsecondaryupgrades_9',['AllSecondaryUpgrades',['../class_character_archetype.html#a7b69ec291a1f511f806e3a51afed8bc3',1,'CharacterArchetype.AllSecondaryUpgrades'],['../interface_i_archetype_loadout.html#a8200a1d3662eb60055365445b850a384',1,'IArchetypeLoadout.AllSecondaryUpgrades']]],
+  ['animatecrossfading_10',['AnimateCrossFading',['../class_unity_mesh_simplifier_1_1_l_o_d_generator_helper.html#a8258a0d26185ceb7cd1b090649b383e8',1,'UnityMeshSimplifier::LODGeneratorHelper']]],
+  ['applyifchildistarget_11',['applyIfChildIsTarget',['../class_x_r_multiplayer_1_1_x_r_poke_follow_affordance_fill.html#a2ad5e7d2aacb596ad230883adc4e887d',1,'XRMultiplayer.XRPokeFollowAffordanceFill.applyIfChildIsTarget'],['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_x_r_poke_follow_affordance.html#ab005b9d83647823c3c6588461d1560d4',1,'UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.XRPokeFollowAffordance.applyIfChildIsTarget']]],
+  ['applyrandomangleatspawn_12',['applyRandomAngleAtSpawn',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_object_spawner.html#a76d4cd4eafa2d39249c0ba8b0271533c',1,'UnityEngine::XR::Interaction::Toolkit::Samples::StarterAssets::ObjectSpawner']]],
+  ['archetype_13',['Archetype',['../class_loadout___s_o.html#aa75c10d862b29962b80d5a9049fefc35',1,'Loadout_SO']]],
+  ['armor_14',['Armor',['../class_health_manager.html#adfe93f29993513c4d7072d7f4cb096de',1,'HealthManager']]],
+  ['armorpenetration_15',['ArmorPenetration',['../class_bomb___s_o.html#a2f702819aece1579f0bf040aedc41c0e',1,'Bomb_SO']]],
+  ['audibledistance_16',['AudibleDistance',['../class_x_r_multiplayer_1_1_voice_chat_manager.html#ad3a70c8aa79ea222c67ad610c2474ce2',1,'XRMultiplayer::VoiceChatManager']]],
+  ['audiofadeintensity_17',['AudioFadeIntensity',['../class_x_r_multiplayer_1_1_voice_chat_manager.html#afb384f29c494853631691c96f3490f1b',1,'XRMultiplayer::VoiceChatManager']]],
+  ['audiofademodel_18',['AudioFadeModel',['../class_x_r_multiplayer_1_1_voice_chat_manager.html#a0e398a5934a54372e477239a36a42e8f',1,'XRMultiplayer::VoiceChatManager']]],
+  ['authenticationmanager_19',['authenticationManager',['../class_x_r_multiplayer_1_1_x_r_i_network_game_manager.html#abb4f1682fdb1b96ee31bd287c6062bff',1,'XRMultiplayer::XRINetworkGameManager']]],
+  ['autocollectrenderers_20',['AutoCollectRenderers',['../class_unity_mesh_simplifier_1_1_l_o_d_generator_helper.html#a489374a67f6ea155703f534e5931ff2a',1,'UnityMeshSimplifier::LODGeneratorHelper']]],
+  ['autoconnectonlobbyjoin_21',['autoConnectOnLobbyJoin',['../class_x_r_multiplayer_1_1_x_r_i_network_game_manager.html#ad5d7d8a87858794ede371de2a1b8d766',1,'XRMultiplayer::XRINetworkGameManager']]],
+  ['availableentities_22',['AvailableEntities',['../class_entity_tag_collection.html#ad7a194dcf38febeedee0be38d441e5e5',1,'EntityTagCollection']]]
+];

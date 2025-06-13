@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['damage_0',['damage',['../class_base_weapon.html#ade26f0db0186f5c200858e0592e53955',1,'BaseWeapon.damage'],['../class_weapon_info.html#aa2e673ba7ee2f347a3966158e16f4bae',1,'WeaponInfo.damage']]],
+  ['damageamount_1',['DamageAmount',['../struct_i_damagable_1_1_damage_data.html#a9f20920d30313e9b16221cb72ed92ea6',1,'IDamagable::DamageData']]],
+  ['damagedata_2',['damageData',['../class_weapon_info.html#abdd620a106dd6f3dd2ecb42862077aa4',1,'WeaponInfo']]],
+  ['damagefalloffstart_3',['damageFallOffStart',['../class_base_weapon.html#ad27601dbfb5ddd95bb963d8e543bfe1c',1,'BaseWeapon.damageFallOffStart'],['../class_weapon_info.html#a382a1bbe7095bebeb50094b2dfb21548',1,'WeaponInfo.damageFallOffStart']]],
+  ['damageinstigator_4',['DamageInstigator',['../struct_i_damagable_1_1_damage_data.html#aec0413206c78da4dfba6120e21f952b1',1,'IDamagable::DamageData']]],
+  ['damagemultiplier_5',['DamageMultiplier',['../struct_i_damagable_1_1_damage_data.html#a8af41ed8b464029383b9f9704a1af1db',1,'IDamagable::DamageData']]],
+  ['damageso_6',['damageSO',['../class_weapon_info.html#a2eb67efcb676963dda4d499a3de6de20',1,'WeaponInfo']]],
+  ['damgagelocation_7',['DamgageLocation',['../struct_i_damagable_1_1_damage_data.html#aff186a1be027eb014b306349d891eda7',1,'IDamagable::DamageData']]],
+  ['datumevent_8',['DatumEvent',['../struct_pass_through_datum_with_event.html#a9515331459bf3958af32428fd0984ab1',1,'PassThroughDatumWithEvent']]],
+  ['default_9',['Default',['../struct_unity_mesh_simplifier_1_1_simplification_options.html#a64f0e9a5c9d91de21d79044f761a671c',1,'UnityMeshSimplifier::SimplificationOptions']]],
+  ['defaultargument_10',['DefaultArgument',['../class_parrel_sync_1_1_clones_manager.html#ae09723ce0323a1a002afd07775ce41f1',1,'ParrelSync::ClonesManager']]],
+  ['defaultcolor_11',['defaultColor',['../class_voice_meter.html#ad4a655639661cd770b456fc83e8e5f60',1,'VoiceMeter']]],
+  ['deletebutton_12',['DeleteButton',['../class_message_object_u_i.html#a83b3496f693e894536860fed9da042d0',1,'MessageObjectUI']]],
+  ['deletionfallback_13',['deletionFallback',['../class_roster_manager.html#a2e74bcbd8f6877d816239548c1f72f08',1,'RosterManager']]],
+  ['deltanormals_14',['DeltaNormals',['../struct_unity_mesh_simplifier_1_1_blend_shape_frame.html#aea3b858aa2181617c40e9bcf1e9b3ab7',1,'UnityMeshSimplifier::BlendShapeFrame']]],
+  ['deltatangents_15',['DeltaTangents',['../struct_unity_mesh_simplifier_1_1_blend_shape_frame.html#abcea3934cd4e6939f696bf425599deae',1,'UnityMeshSimplifier::BlendShapeFrame']]],
+  ['deltavertices_16',['DeltaVertices',['../struct_unity_mesh_simplifier_1_1_blend_shape_frame.html#ab743255001abc4211b870659dc25e1f8',1,'UnityMeshSimplifier::BlendShapeFrame']]],
+  ['deviceenergymask_17',['DeviceEnergyMask',['../class_audio_device_settings.html#a3669c9217a603e633037d6a625e6f1fb',1,'AudioDeviceSettings']]],
+  ['dietime_18',['dieTime',['../class_enemy_info.html#a18b027fc52f9433b19badd3b9785ae82',1,'EnemyInfo']]],
+  ['dispenserslots_19',['dispenserSlots',['../class_x_r_multiplayer_1_1_dispenser_panel.html#a74897979d4563ac443113c71bc1e90b4',1,'XRMultiplayer::DispenserPanel']]],
+  ['dispenserslottransform_20',['dispenserSlotTransform',['../class_x_r_multiplayer_1_1_dispenser_slot.html#a7750d6461320a1e78a29ab9b4767664e',1,'XRMultiplayer::DispenserSlot']]],
+  ['displaynameinput_21',['DisplayNameInput',['../class_login_screen_u_i.html#ac07b45077523f97f32c03c6e0d366c1c',1,'LoginScreenUI']]],
+  ['distancetospawnnew_22',['distanceToSpawnNew',['../class_x_r_multiplayer_1_1_dispenser_slot.html#aa099e12b67a8da126e9e3e5f066abfa9',1,'XRMultiplayer::DispenserSlot']]]
+];

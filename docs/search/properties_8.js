@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['icon_0',['Icon',['../class_game_entity_meta_data___s_o.html#a771dc8d7b567427c72c1c9932c22dd7e',1,'GameEntityMetaData_SO.Icon'],['../interface_i_game_entity_info.html#a33afe381d3dd9fde6ae884b4ad273547',1,'IGameEntityInfo.Icon']]],
+  ['iconparenttransform_1',['iconParentTransform',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_spatial_keyboard_1_1_keyboard_optimizer.html#a7b242dcbecf1fcd1e2668c6986fa1f19',1,'UnityEngine::XR::Interaction::Toolkit::Samples::SpatialKeyboard::KeyboardOptimizer']]],
+  ['ignoresocketselectedcallback_2',['ignoreSocketSelectedCallback',['../class_x_r_multiplayer_1_1_network_base_interactable.html#ac24b4992783a37e155891714ff9d5d68',1,'XRMultiplayer::NetworkBaseInteractable']]],
+  ['imageparenttransform_3',['imageParentTransform',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_spatial_keyboard_1_1_keyboard_optimizer.html#a1bd4861a23d0c8f4c70592cd001b9aeb',1,'UnityEngine::XR::Interaction::Toolkit::Samples::SpatialKeyboard::KeyboardOptimizer']]],
+  ['initialposition_4',['initialPosition',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_x_r_poke_follow_affordance.html#a409d5b34675487cff9ea28cf63057195',1,'UnityEngine::XR::Interaction::Toolkit::Samples::StarterAssets::XRPokeFollowAffordance']]],
+  ['instance_5',['Instance',['../class_x_r_multiplayer_1_1_x_r_i_network_game_manager.html#ab226e5fca0cfb21761603245e4b0bf43',1,'XRMultiplayer.XRINetworkGameManager.Instance'],['../class_audio_taps_manager.html#adeff4e14356db924fd73e17e0545f695',1,'AudioTapsManager.Instance'],['../class_vivox_voice_manager.html#a2ecbc4ea7cdd47ffc90df10da28ac6e8',1,'VivoxVoiceManager.Instance']]],
+  ['interaction_6',['Interaction',['../struct_countdown_passthrough_datum.html#a1da16c8f25f2faa5db79cec350ecc820',1,'CountdownPassthroughDatum.Interaction'],['../struct_default_pass_through_datum.html#af85b34d30b30f8b1f2d61288eda5a13f',1,'DefaultPassThroughDatum.Interaction'],['../struct_pass_through_datum_with_event.html#ac556a8492f7d92e5907a6f8c87bbffdf',1,'PassThroughDatumWithEvent.Interaction'],['../interface_ability_data_types_1_1_i_pass_through_datum.html#a8db275e870c60850a63a0847d8c9e468',1,'AbilityDataTypes.IPassThroughDatum.Interaction']]],
+  ['interactionchecktime_7',['interactionCheckTime',['../class_x_r_multiplayer_1_1_network_base_interactable.html#a60c7a4fcc818408fa28c91a4f5f1663b',1,'XRMultiplayer::NetworkBaseInteractable']]],
+  ['isalive_8',['IsAlive',['../class_health_manager.html#a1e3df9782053e60f01759192cb551309',1,'HealthManager']]],
+  ['isclonecreated_9',['isCloneCreated',['../class_parrel_sync_1_1_clones_manager_window.html#ace13fd2ea9646e2af55929bbc7409b5e',1,'ParrelSync::ClonesManagerWindow']]],
+  ['iscurrentlyoptimized_10',['isCurrentlyOptimized',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_spatial_keyboard_1_1_keyboard_optimizer.html#a859746ab6075992d57df1bdfe315de11',1,'UnityEngine::XR::Interaction::Toolkit::Samples::SpatialKeyboard::KeyboardOptimizer']]],
+  ['isfeatureenabled_11',['IsFeatureEnabled',['../class_audio_taps_manager.html#a24515df43b1e83f02c83e4fc30637b03',1,'AudioTapsManager']]],
+  ['isfinished_12',['isFinished',['../class_x_r_multiplayer_1_1_mini_games_1_1_scoreboard_slot.html#af584510cd8e9a09ce9dd6fc3d2e2a205',1,'XRMultiplayer::MiniGames::ScoreboardSlot']]],
+  ['isgenerated_13',['IsGenerated',['../class_unity_mesh_simplifier_1_1_l_o_d_generator_helper.html#a8ff94e2cd3de75d3f1f1fca286d2fd81',1,'UnityMeshSimplifier::LODGeneratorHelper']]],
+  ['isinteracting_14',['isInteracting',['../class_x_r_multiplayer_1_1_network_base_interactable.html#a07c684f98f75f33170fdfd21406592d4',1,'XRMultiplayer::NetworkBaseInteractable']]],
+  ['isinvulnerable_15',['IsInvulnerable',['../class_health_manager.html#a2c7a5825e69d50edf0b441c14a3b28fa',1,'HealthManager']]],
+  ['islocalsceneplayergetset_16',['IsLocalScenePlayerGetSet',['../class_the_mission_1_1_i_k_target_v_r_rig.html#ad049b82bd18517302f62166bb745e6d7',1,'TheMission::IKTargetVRRig']]],
+  ['isquiting_17',['IsQuiting',['../class_parrel_sync_1_1_editor_quit.html#a9e81032e4ae950cf20b7f40c7ad0fb89',1,'ParrelSync::EditorQuit']]],
+  ['isready_18',['isReady',['../class_x_r_multiplayer_1_1_mini_games_1_1_scoreboard_slot.html#a4c5ebde8319b7cffb0d2dc9a12fa0798',1,'XRMultiplayer::MiniGames::ScoreboardSlot']]],
+  ['isreusable_19',['IsReusable',['../class_ability_data___s_o.html#a2de956bb8d713fbe5bb520da72178892',1,'AbilityData_SO.IsReusable'],['../interface_i_ability_data.html#a813e5df3f30210102364fa9ce66967b7',1,'IAbilityData.IsReusable']]],
+  ['isspawnoptionrandomized_20',['isSpawnOptionRandomized',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_object_spawner.html#a00e95c2a5739a1b977c88b5e6bfeea1f',1,'UnityEngine::XR::Interaction::Toolkit::Samples::StarterAssets::ObjectSpawner']]]
+];

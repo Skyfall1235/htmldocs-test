@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['receiveshadows_0',['ReceiveShadows',['../struct_unity_mesh_simplifier_1_1_l_o_d_level.html#a8b3cc9154f6d78e82d93427bb18cc968',1,'UnityMeshSimplifier::LODLevel']]],
+  ['reflectionprobeusage_1',['ReflectionProbeUsage',['../struct_unity_mesh_simplifier_1_1_l_o_d_level.html#aeabc9749583cea41ea2c622e2f943b9b',1,'UnityMeshSimplifier::LODLevel']]],
+  ['registrationmode_2',['registrationMode',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_rotation_axis_lock_grab_transformer.html#a872ca6e86ca1f59efa07934ec16be179',1,'UnityEngine::XR::Interaction::Toolkit::Samples::StarterAssets::RotationAxisLockGrabTransformer']]],
+  ['releasethreshold_3',['releaseThreshold',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_hands_1_1_release_threshold_button_reader.html#a66ee04abb46983d15358481515debc1c',1,'UnityEngine.XR.Interaction.Toolkit.Samples.Hands.ReleaseThresholdButtonReader.releaseThreshold'],['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_hands_1_1_value_derived_button_reader.html#aca2e959570e7c9ad31db63e0fce84d0b',1,'UnityEngine.XR.Interaction.Toolkit.Samples.Hands.ValueDerivedButtonReader.releaseThreshold']]],
+  ['relinquishownershipaftertime_4',['relinquishOwnershipAfterTime',['../class_x_r_multiplayer_1_1_network_base_interactable.html#a564c1dde4f833afcfe5af0a60f8fecf9',1,'XRMultiplayer::NetworkBaseInteractable']]],
+  ['relinquishownershiptime_5',['relinquishOwnershipTime',['../class_x_r_multiplayer_1_1_network_base_interactable.html#a56b8486f772ad61d3160c2888082b1c8',1,'XRMultiplayer::NetworkBaseInteractable']]],
+  ['renderers_6',['Renderers',['../struct_unity_mesh_simplifier_1_1_l_o_d_level.html#a80335d21880c2749e1425e12879c1535',1,'UnityMeshSimplifier::LODLevel']]],
+  ['requiredkeys_7',['requiredKeys',['../class_unity_engine_1_1_x_r_1_1_content_1_1_interaction_1_1_lock.html#a486a9ad56dd310b019377790064f9157',1,'UnityEngine::XR::Content::Interaction::Lock']]],
+  ['resetobjectondisconenct_8',['resetObjectOnDisconenct',['../class_x_r_multiplayer_1_1_network_base_interactable.html#af9d697475f18b168194453e5c5e45660',1,'XRMultiplayer::NetworkBaseInteractable']]],
+  ['respawngetset_9',['RespawnGetSet',['../class_enemy_activator.html#afc3ab048acb5333773a1e6811e9f55a8',1,'EnemyActivator']]],
+  ['result_10',['Result',['../class_custom_namespace_1_1_generic_datatypes_1_1_coroutine_with_data.html#a04ea5d444d8065dde7d4c1c49017dc41',1,'CustomNamespace::GenericDatatypes::CoroutineWithData']]],
+  ['returntoinitialposition_11',['returnToInitialPosition',['../class_x_r_multiplayer_1_1_x_r_poke_follow_affordance_fill.html#a89a8468ed606fdabd780576d96868ad9',1,'XRMultiplayer.XRPokeFollowAffordanceFill.returnToInitialPosition'],['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_x_r_poke_follow_affordance.html#ac0a6284005af53ce98b83103a25824c5',1,'UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.XRPokeFollowAffordance.returnToInitialPosition']]],
+  ['rightcontrollertransform_12',['rightControllerTransform',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_dynamic_move_provider.html#a7518ec4a2b723592a9bab25b5d3b28a5',1,'UnityEngine::XR::Interaction::Toolkit::Samples::StarterAssets::DynamicMoveProvider']]],
+  ['righthandmovementdirection_13',['rightHandMovementDirection',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_dynamic_move_provider.html#a138400fd738a303833b9ceb8260bed9a',1,'UnityEngine::XR::Interaction::Toolkit::Samples::StarterAssets::DynamicMoveProvider']]],
+  ['righthandtransformgetset_14',['RightHandTransformGetSet',['../class_the_mission_1_1_i_k_target_v_r_rig.html#afce5c1b920fcb6ac8a65cd1b6ce7efd0',1,'TheMission::IKTargetVRRig']]],
+  ['rigtarget_15',['RigTarget',['../class_the_mission_1_1_v_r_map.html#aa6a623fbd63deb541f9edc46b905d028',1,'TheMission::VRMap']]],
+  ['roomnamegetset_16',['RoomNameGetSet',['../class_the_mission_1_1_multiplayer_settings.html#a3bc1022cbf32b15e88df2d0b5861ab05',1,'TheMission::MultiplayerSettings']]]
+];

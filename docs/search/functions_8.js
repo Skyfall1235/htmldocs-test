@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['incrementtext_0',['IncrementText',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_increment_u_i_text.html#a3335f894f004e661f46f5a0fb6b2e29c',1,'UnityEngine::XR::Interaction::Toolkit::Samples::StarterAssets::IncrementUIText']]],
+  ['init_1',['Init',['../class_aspect_ratio_element_1_1_uxml_traits.html#a92993976fc8525d575c00aa1ab0a3fb8',1,'AspectRatioElement::UxmlTraits']]],
+  ['initialize_2',['Initialize',['../class_unity_mesh_simplifier_1_1_mesh_simplifier.html#a8e712188f2b10bcfdc4faad08e9864a4',1,'UnityMeshSimplifier.MeshSimplifier.Initialize()'],['../class_ability_generator.html#a6cf6bf827af86f15845c7fed00096483',1,'AbilityGenerator.Initialize()'],['../interface_i_generator_control.html#aa175ae26c6eaffdfde67d3d86fd4fcdf',1,'IGeneratorControl.Initialize()'],['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_hands_1_1_one_euro_filter_vector3.html#a25a86c8a13afab1a75ccd56a9e25175f',1,'UnityEngine.XR.Interaction.Toolkit.Samples.Hands.OneEuroFilterVector3.Initialize()']]],
+  ['initializeasync_3',['InitializeAsync',['../class_vivox_voice_manager.html#a0e0c071cd6624744c86c1536f51968a3',1,'VivoxVoiceManager']]],
+  ['initializecallbacks_4',['InitializeCallbacks',['../class_x_r_multiplayer_1_1_player_list_u_i.html#a737632c3542b4d8a92e1917f8e1f2dbd',1,'XRMultiplayer::PlayerListUI']]],
+  ['initializegrabbinding_5',['InitializeGrabBinding',['../class_base_weapon.html#a622badec5532d2083861d4f6d647c419',1,'BaseWeapon']]],
+  ['initializepoints_6',['InitializePoints',['../class_two_hand_grab_interactable.html#a26d5f252d03227d696eef9260c2190f0',1,'TwoHandGrabInteractable.InitializePoints()'],['../class_s_m_g___grab_functionality.html#a6015c2f147106caeedbb8651baa3f9c1',1,'SMG_GrabFunctionality.InitializePoints()']]],
+  ['initializepool_7',['InitializePool',['../class_x_r_multiplayer_1_1_pooler.html#a559ffa9c5a60a252d030152dc3cc2643',1,'XRMultiplayer::Pooler']]],
+  ['invitefriends_8',['InviteFriends',['../class_the_mission_1_1_multiplayer_settings.html#a6d298819ae5b3535b71b3b7ed6a0cef6',1,'TheMission::MultiplayerSettings']]],
+  ['invokelocal_9',['InvokeLocal',['../class_custom_namespace_1_1_network_1_1_networked_event_dispatcher_base.html#ad1d88819885ad63949c9fb91f23ed1a6',1,'CustomNamespace::Network::NetworkedEventDispatcherBase']]],
+  ['invokeonclients_10',['InvokeOnClients',['../class_custom_namespace_1_1_network_1_1_networked_event_dispatcher_base.html#ac85ae2817388c4de76a1976cc0ea3811',1,'CustomNamespace::Network::NetworkedEventDispatcherBase']]],
+  ['isauthenticated_11',['IsAuthenticated',['../class_x_r_multiplayer_1_1_authentication_manager.html#ad7668e9ec2a8fc417d67991c65bc407d',1,'XRMultiplayer.AuthenticationManager.IsAuthenticated()'],['../class_x_r_multiplayer_1_1_x_r_i_network_game_manager.html#a3f72c2635fe0a78029dec6c06eedc09b',1,'XRMultiplayer.XRINetworkGameManager.IsAuthenticated()']]],
+  ['isclone_12',['IsClone',['../class_parrel_sync_1_1_clones_manager.html#a397671f995699eaec602004aa35f82f2',1,'ParrelSync::ClonesManager']]],
+  ['iscloneprojectrunning_13',['IsCloneProjectRunning',['../class_parrel_sync_1_1_clones_manager.html#a64fcde724e555e683f7f932a733bbc2a',1,'ParrelSync::ClonesManager']]],
+  ['isfilelocked_14',['IsFileLocked',['../class_parrel_sync_1_1_file_utilities.html#acae40c7b310d850380ead74abbcc9cb4',1,'ParrelSync::FileUtilities']]],
+  ['isgenerating_15',['IsGenerating',['../class_ability_generator.html#ae7908c812df4adc5ee77e54450f5bda5',1,'AbilityGenerator.IsGenerating()'],['../interface_i_generator_control.html#a233231589d9e4dc80b7bf3ca2a3d93dd',1,'IGeneratorControl.IsGenerating()']]],
+  ['isheldchanged_16',['IsHeldChanged',['../class_network_billboard.html#a00e408881484ca67dd9dbaab0597b337',1,'NetworkBillboard']]],
+  ['ismovingfaster_17',['IsMovingFaster',['../class_x_r_multiplayer_1_1_network_physics_interactable.html#af40f3c712e4566a3a304bf88c16315bb',1,'XRMultiplayer::NetworkPhysicsInteractable']]],
+  ['isproxypanelfull_18',['IsProxyPanelFull',['../class_x_r_multiplayer_1_1_network_object_dispenser.html#a927971cb67e8d567102f64dc6200befa',1,'XRMultiplayer::NetworkObjectDispenser']]],
+  ['isproxypanelshowing_19',['IsProxyPanelShowing',['../class_x_r_multiplayer_1_1_network_object_dispenser.html#a4ae999b45e53f050f47da133e74115d4',1,'XRMultiplayer::NetworkObjectDispenser']]],
+  ['isproxyslotshowing_20',['IsProxySlotShowing',['../class_x_r_multiplayer_1_1_network_object_dispenser.html#a8625d94e983e8e9446d9f6582a792e4a',1,'XRMultiplayer::NetworkObjectDispenser']]],
+  ['isselectableby_21',['IsSelectableBy',['../class_x_r_grab_interactable_custom.html#a902b1b7892e188f925411fcb55d1cc92',1,'XRGrabInteractableCustom']]]
+];

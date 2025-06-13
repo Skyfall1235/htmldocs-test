@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['magnitude_0',['Magnitude',['../struct_unity_mesh_simplifier_1_1_vector3d.html#ab891f9b0abe2562fe94be7d873f2c979',1,'UnityMeshSimplifier::Vector3d']]],
+  ['magnitudesqr_1',['MagnitudeSqr',['../struct_unity_mesh_simplifier_1_1_vector3d.html#afe47f455701c0d91dbb76506b9a39bd6',1,'UnityMeshSimplifier::Vector3d']]],
+  ['maxangle_2',['maxAngle',['../class_unity_engine_1_1_x_r_1_1_content_1_1_interaction_1_1_x_r_knob.html#aa5e6557daebe4fc9075cd7ce9a0ed34f',1,'UnityEngine.XR.Content.Interaction.XRKnob.maxAngle'],['../class_unity_engine_1_1_x_r_1_1_content_1_1_interaction_1_1_x_r_lever.html#a33362d97638ab2bc75e9c99333970bdb',1,'UnityEngine.XR.Content.Interaction.XRLever.maxAngle']]],
+  ['maxdistance_3',['maxDistance',['../class_x_r_multiplayer_1_1_x_r_poke_follow_affordance_fill.html#a43d00ce917e9f02ccbbfcdde8776bc55',1,'XRMultiplayer.XRPokeFollowAffordanceFill.maxDistance'],['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_starter_assets_1_1_x_r_poke_follow_affordance.html#afdfe1356abb46f60c9e7ea3e051e9d5f',1,'UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.XRPokeFollowAffordance.maxDistance']]],
+  ['maxhealth_4',['MaxHealth',['../class_health_manager.html#a3b32918005cc0cfbb47d7f6897019671',1,'HealthManager']]],
+  ['maxiterationcount_5',['MaxIterationCount',['../class_unity_mesh_simplifier_1_1_mesh_simplifier.html#a7abd7a781409cbd0a4eccbfeb3d7289c',1,'UnityMeshSimplifier::MeshSimplifier']]],
+  ['menupressed_6',['menuPressed',['../class_unity_engine_1_1_x_r_1_1_interaction_1_1_toolkit_1_1_samples_1_1_hands_1_1_meta_system_gesture_detector.html#a2420064691685d31ef6ccc97d0f83184',1,'UnityEngine::XR::Interaction::Toolkit::Samples::Hands::MetaSystemGestureDetector']]],
+  ['metadata_7',['MetaData',['../class_bomb___s_o.html#a3d3cfb1c05554134f86e270be5d9bb07',1,'Bomb_SO.MetaData'],['../class_ability_data___s_o.html#a25502ba880fab6d1aa2b28125ea2b5f2',1,'AbilityData_SO.MetaData'],['../class_character_archetype.html#af490a4664d302e33b4695a98229fb8b3',1,'CharacterArchetype.MetaData'],['../interface_i_meta_data_implementor.html#a025b163a6810e197e481a4ba6808d52b',1,'IMetaDataImplementor.MetaData']]],
+  ['minangle_8',['minAngle',['../class_unity_engine_1_1_x_r_1_1_content_1_1_interaction_1_1_x_r_knob.html#a9fc0391f69f87616713f38b290f36856',1,'UnityEngine.XR.Content.Interaction.XRKnob.minAngle'],['../class_unity_engine_1_1_x_r_1_1_content_1_1_interaction_1_1_x_r_lever.html#a84062246c05e1fd48d48ced68b6aa8d7',1,'UnityEngine.XR.Content.Interaction.XRLever.minAngle']]],
+  ['mindistance_9',['minDistance',['../class_x_r_multiplayer_1_1_x_r_poke_follow_affordance_fill.html#a9874467bec5df62b38033fc253184617',1,'XRMultiplayer::XRPokeFollowAffordanceFill']]],
+  ['motionvectorgenerationmode_10',['MotionVectorGenerationMode',['../struct_unity_mesh_simplifier_1_1_l_o_d_level.html#a0d9034c8496a2c0033d77f409e12360c',1,'UnityMeshSimplifier::LODLevel']]],
+  ['muted_11',['muted',['../class_x_r_multiplayer_1_1_offline_player_avatar.html#ae90ea885ad1629d87eee4612fe7ec900',1,'XRMultiplayer::OfflinePlayerAvatar']]]
+];
